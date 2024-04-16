@@ -101,4 +101,80 @@ Determine if an expression or equation
 
 # 1.14
 Simplify
-- 3^4 = 81
+- **3^4** = 81
+
+# 1.15
+Simplify
+- **4 + 3 * 7** = 25
+- **(4 + 3) * 7** = 49
+
+# 1.16
+Simplify
+- **18 / 6 + 4 (5-2)** = 15
+
+# 1.17
+Simplify
+- **5 + 2^3 + 3[ 6 - 3 (4 -2)]** = 13
+
+# 1.18
+Evaluate the expression
+**7x - 4**
+- x = 5: 31
+- x = 1: 3
+
+# 1.19
+Evaluate the expression
+x = 4
+- x^2 = 16
+- 3^x = 81
+
+# 1.20
+Evaluate the expression
+2x^2 + 3x + 8 when
+- x=4: 52
+
+# 1.21
+Identify the coefficient
+- 14y: 14
+- 15x^2: 15
+- a: 1
+
+# 1.22
+Identify like terms
+y^3, 7x^2, 14, 23, 4y^3, 9x, 5x^2
+- y^3, 4y^3
+- 7x^2, 5x^2
+- 14, 23
+- 9x has no like terms
+
+# 1.23
+Identify like terms
+- 9x^2 + 7x + 12: each are a term
+- 8x + 3y: each are a term
+
+# 1.24
+Combine like terms
+2x^2 + 3x + 7 + x^2 + 4x + 5 = 3x^2 + 7x + 12
+
+# 1.25
+Translate
+- difference of 17x and 5 = 17x - 5
+- quotient of 10x^2 and 7 = 10x^2 \ 7
+
+# 1.26
+Translate
+- seventeen more than y = y + 17
+- nine less than 9x^2 = 9x^2 - 9
+
+# 1.27
+Translate
+- five time the sum of m and n = 5(m + n)
+- the sum of five times m and n = 5(m) + n
+
+# 1.28
+Translate
+- w - 6
+
+# 1.29
+Translate
+- 4q - 3
