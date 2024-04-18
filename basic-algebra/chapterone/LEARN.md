@@ -220,3 +220,27 @@ Evaluate
 - **|-y| when y = -20**: 20
 - **-|u| when u = 12**: -12
 - **-|p| when p = -14**: -14
+
+# 1.64
+Find three fractions equivalent to 2/5
+- 4/10, 6/15, 8/20
+
+# 1.65
+Simplify
+- 32/56: 4/7
+
+# 1.66
+Simplify
+- 210/385: 6/11
+
+# 1.67
+Simplify
+- 5x/5y: x/y
+
+# 1.68
+Multiply
+- 11/12 * 5/7: 55/84
+
+# 1.69
+Multiply
+- -12/5(-20x): 48
