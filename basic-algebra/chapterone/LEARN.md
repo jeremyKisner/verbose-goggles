@@ -260,3 +260,22 @@ Simplify
 # 1.74
 Simplify
 4 - 2(3) / 2^2 + 2 = -1/3
+
+# 1.94
+Round the decimal to nearest hundredth.
+18.379 = 18.38
+
+# 1.95
+Round 18.379 to the nearest
+- tenth: 18.40
+- whole: 18
+
+# 1.96
+23.5 + 41.38 = 64.88
+
+# 1.98
+(-3.9)(4.075) = 15.8925
+
+# 1.101
+Divide $3.99 / 24
+- $0.17
