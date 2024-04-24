@@ -279,3 +279,28 @@ Round 18.379 to the nearest
 # 1.101
 Divide $3.99 / 24
 - $0.17
+
+# 1.123
+Simplify (5/13 + 3/4) + 1/4 = 18/13
+
+# 1.125
+Find the additive inverse
+- 5/8 = -5/8
+- 0.6 = -0.6
+- -8 = 8
+
+# 1.126
+Find the multiplicative inverse
+- 9 = 1/9
+- -1/9 = -9
+- 0.9 = 10/9
+
+# 1.127
+Simplify
+- -8*0 = 0
+- 0/-2 = 0
+- -32/0 = undefined
+
+# 1.130
+7/15 * 8/23 * 15/7 = 8/23
+
