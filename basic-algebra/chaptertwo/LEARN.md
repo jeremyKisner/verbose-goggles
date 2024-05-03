@@ -51,3 +51,18 @@ Solve
 # 2.25
 Solve
 - 6 / $10.74 = $1.79
+
+# 2.45
+Solve
+- 6(2n - 1) + 3 = 2n -8 + 5(2n + 1)
+ - -3 = -3 :: Identity
+
+# 2.46
+Solve
+- 10 + 4(p - 5) = 0
+ - p = 5/2 :: Conditional
+
+# 2.47
+Solve
+- 5m + 3(9 + 3m) = 2(7m - 11)
+ - 27 != 22 :: Contradiction
