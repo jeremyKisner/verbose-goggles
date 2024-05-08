@@ -112,5 +112,3 @@ Solve
 - A = 1/2bh
  - when A = 90 and b = 15
   - h = 12
-
-
