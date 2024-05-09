@@ -112,3 +112,24 @@ Solve
 - A = 1/2bh
  - when A = 90 and b = 15
   - h = 12
+
+# 2.62
+Solve
+- I = Prt
+ - when I = $5,600, r = 4%, t = 7
+  - p = $20,000
+
+# 2.63
+Solve the formula 3x+2y=18
+- for y when  x=4
+ - y = 3
+
+# 2.64
+Solve the formula  P=a+b+c
+  for  a
+- a = P - b - c
+
+# 2.65
+Solve the formula  6x+5y=13
+  for y
+- y = (13 - 6x) / 5
