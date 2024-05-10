@@ -133,3 +133,11 @@ Solve the formula  P=a+b+c
 Solve the formula  6x+5y=13
   for y
 - y = (13 - 6x) / 5
+
+# 2.69
+Solve the inequality 7y<​​42
+- y < 6
+
+# 2.70
+Solve the inequality  −10a≥50
+- a ≥ -5
