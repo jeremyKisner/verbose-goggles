@@ -20,4 +20,34 @@ The sum of twice a number and seven is 15. Find the number.
 
 # 3.5
 One number is five more than another. The sum of the numbers is 21. Find the numbers.
-- 
+- n + 5 + n = 21
+ - n = 8 and 13
+
+# 3.6
+The sum of two numbers is negative fourteen. One number is four less than the other. Find the numbers.
+- n + n -4 = -14
+ - n = -5 and -9
+
+# 3.7
+One number is ten more than twice another. Their sum is one. Find the numbers.
+- 2n + n + 10 = 10
+ - n = −3 and 4
+
+# 3.8
+The sum of two consecutive integers is 47. Find the numbers.
+- x + x + 1 = 47
+ - x = 23 and 24
+
+# 3.9
+Find three consecutive integers whose sum is −42.
+- x + x + 1 + x + 2 = -42
+ - x = -15, -14 and -13
+
+# 3.10
+Find three consecutive even integers whose sum is 84.
+- x + x + 1 + x + 2 = 84
+ - x = 26, 28, and 30
+
+# 3.11
+A married couple together earns $110,000 a year. The wife earns $16,000 less than twice what her husband earns. What does the husband earn?
+- $42,000 a year
