@@ -51,3 +51,11 @@ Find three consecutive even integers whose sum is 84.
 # 3.11
 A married couple together earns $110,000 a year. The wife earns $16,000 less than twice what her husband earns. What does the husband earn?
 - $42,000 a year
+
+# 3.12
+Translate and solve: What number is 35% of 90?
+- 31.50
+
+# 3.13
+Translate and solve: 6.5% of what number is $1.17?
+- $18
