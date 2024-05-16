@@ -59,3 +59,22 @@ Translate and solve: What number is 35% of 90?
 # 3.13
 Translate and solve: 6.5% of what number is $1.17?
 - $18
+
+# 3.14
+Translate and solve: 144 is what percent of 96?
+- 150%
+
+# 3.15
+Dezohn and his girlfriend enjoyed a nice dinner at a restaurant and his bill was $68.50. He wants to leave an 18% tip. If the tip will be 18% of the total bill, how much tip should he leave?
+- $68.50 * .18 = x
+ - x = $12.33
+
+# 3.16
+The label on Masao’s breakfast cereal said that one serving of cereal provides 85 milligrams (mg) of potassium, which is 2% of the recommended daily amount. What is the total recommended daily amount of potassium?
+- 85 = x * .02
+ - total daily potassium = 4250.0
+
+# 3.17
+Mitzi received some gourmet brownies as a gift. The wrapper said each brownie was 480 calories, and had 240 calories of fat. What percent of the total calories in each brownie comes from fat?
+- 240 / 480 = x
+ - x = 50.0%
