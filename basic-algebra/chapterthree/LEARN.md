@@ -78,3 +78,13 @@ The label on Masao’s breakfast cereal said that one serving of cereal provides
 Mitzi received some gourmet brownies as a gift. The wrapper said each brownie was 480 calories, and had 240 calories of fat. What percent of the total calories in each brownie comes from fat?
 - 240 / 480 = x
  - x = 50.0%
+
+# 3.18
+In 2011, the California governor proposed raising community college fees from $26 a unit to $36 a unit. Find the percent increase. (Round to the nearest tenth of a percent.)
+- 36 - 26 = 10
+ - 10 =  p * 26
+  - p = 38.5%
+
+# 3.19
+The average price of a gallon of gas in one city in June 2014 was $3.71. The average price in that city in July was $3.64. Find the percent decrease.
+- 1.9%
