@@ -88,3 +88,10 @@ In 2011, the California governor proposed raising community college fees from $2
 # 3.19
 The average price of a gallon of gas in one city in June 2014 was $3.71. The average price in that city in July was $3.64. Find the percent decrease.
 - 1.9%
+
+# 3.20
+Nathaly deposited $12,500 in her bank account where it will earn 4% interest. How much interest will Nathaly earn in 5 years?
+- I = Prt
+ - I - 12500 * 4% * 5
+ - I = 2500
+
