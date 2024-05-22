@@ -95,3 +95,13 @@ Nathaly deposited $12,500 in her bank account where it will earn 4% interest. Ho
  - I - 12500 * 4% * 5
  - I = 2500
 
+# 3.21
+Loren loaned his brother $3,000 to help him buy a car. In 4 years his brother paid him back the $3,000 plus $660 in interest. What was the rate of interest?
+- I = Prt
+ - 660 = 3000 * r * 4
+ - r = 5.5%
+
+# 3.22
+Eduardo noticed that his new car loan papers stated that with a 7.5% interest rate, he would pay $6,596.25 in interest over 5 years. How much did he borrow to pay for his car?
+- 6,596.25 = P * 7.5 * 5
+ - P = $17590.00
