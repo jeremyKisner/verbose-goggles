@@ -105,3 +105,35 @@ Loren loaned his brother $3,000 to help him buy a car. In 4 years his brother pa
 Eduardo noticed that his new car loan papers stated that with a 7.5% interest rate, he would pay $6,596.25 in interest over 5 years. How much did he borrow to pay for his car?
 - 6,596.25 = P * 7.5 * 5
  - P = $17590.00
+
+# 3.23
+amount of discount=discount rate×original price
+sale price=original price−amount of discount
+
+Elise bought a dress that was discounted 35% off of the original price of $140. What was
+ⓐ the amount of discount
+- x = 35% * 140
+ - x = 49
+ⓑ the sale price of the dress
+- 140 - 49
+
+# 3.24
+Jeannette bought a swimsuit at a sale price of $13.95. The original price of the swimsuit was $31. Find the
+ⓐ amount of discount
+- 13.95 = 31 - x
+ - x = 17.05
+ⓑ discount rate
+- 17.05 = x * 31
+ - x = 55%
+
+# 3.25
+amount of mark-up=mark-up rate×original cost
+list price=original cost+amount of mark up
+
+Adam’s art gallery bought a photograph at original cost $250. Adam marked the price up 40%. Find the
+ⓐ amount of mark-up
+- x = 40% * 250
+ - x = 100
+ⓑ the list price of the photograph
+- x = 250 + 100
+ - x = 350
