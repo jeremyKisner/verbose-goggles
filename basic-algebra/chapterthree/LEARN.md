@@ -137,3 +137,7 @@ Adam’s art gallery bought a photograph at original cost $250. Adam marked the 
 ⓑ the list price of the photograph
 - x = 250 + 100
  - x = 350
+
+# 3.26
+Adalberto has $2.25 in dimes and nickels in his pocket. He has nine more nickels than dimes. How many of each type of coin does he have?
+-  
