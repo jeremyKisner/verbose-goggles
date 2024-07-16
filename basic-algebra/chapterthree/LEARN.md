@@ -140,4 +140,5 @@ Adam’s art gallery bought a photograph at original cost $250. Adam marked the 
 
 # 3.26
 Adalberto has $2.25 in dimes and nickels in his pocket. He has nine more nickels than dimes. How many of each type of coin does he have?
--  
+- .10d + .05(d + 9) = $2.25
+  -  12 Dimes and 21 Nickels
