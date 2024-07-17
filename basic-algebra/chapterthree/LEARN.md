@@ -153,3 +153,6 @@ Maria has $2.43 in quarters and pennies in her wallet. She has twice as many pen
 Danny has $2.14 worth of pennies and nickels in his piggy bank. The number of nickels is two more than ten times the number of pennies. How many nickels and how many pennies does Danny have?
 - .01 * p + (10p + 2) = 2.14
   - 4 pennies and 42 nickels
+
+# 3.29
+At a school concert, the total value of tickets sold was $1,506. Student tickets sold for $6 each and adult tickets sold for $9 each. The number of adult tickets sold was five less than three times the number of student tickets sold. How many student tickets and how many adult tickets were sold?
