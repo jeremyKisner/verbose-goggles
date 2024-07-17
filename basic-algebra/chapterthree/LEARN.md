@@ -148,3 +148,8 @@ Adalberto has $2.25 in dimes and nickels in his pocket. He has nine more nickels
 Maria has $2.43 in quarters and pennies in her wallet. She has twice as many pennies as quarters. How many coins of each type does she have?
 - .25q + .01(2q) = $2.43
   -  9 Quarters and 18 pennies
+
+# 3.28
+Danny has $2.14 worth of pennies and nickels in his piggy bank. The number of nickels is two more than ten times the number of pennies. How many nickels and how many pennies does Danny have?
+- .01 * p + (10p + 2) = 2.14
+  - 4 pennies and 42 nickels
