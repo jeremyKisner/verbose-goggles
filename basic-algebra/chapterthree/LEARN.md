@@ -161,3 +161,5 @@ At a school concert, the total value of tickets sold was $1,506. Student tickets
 
 # 3.30
 Galen sold 810 tickets for his church’s carnival for a total of $2,820. Children’s tickets cost $3 each and adult tickets cost $5 each. How many children’s tickets and how many adult tickets did he sell?
+- c + 810 - c = 2820
+  - 615 children and 195 adult tickets
