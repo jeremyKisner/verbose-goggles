@@ -156,3 +156,5 @@ Danny has $2.14 worth of pennies and nickels in his piggy bank. The number of ni
 
 # 3.29
 At a school concert, the total value of tickets sold was $1,506. Student tickets sold for $6 each and adult tickets sold for $9 each. The number of adult tickets sold was five less than three times the number of student tickets sold. How many student tickets and how many adult tickets were sold?
+- 9(3s - 5) + 6x = 1506
+  - 47 student and 136 adult tickets
