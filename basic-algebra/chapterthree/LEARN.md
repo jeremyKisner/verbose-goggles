@@ -176,4 +176,5 @@ Henning is mixing raisins and nuts to make 10 pounds of trail mix. Raisins cost 
 
 # 3.33
 Stacey has $20,000 to invest in two different bank accounts. One account pays interest at 3% per year and the other account pays interest at 5% per year. How much should she invest in each account if she wants to earn 4.5% interest per year on the total amount?
-- 
+- .03(x) + 5 (20000 - x)
+  - 5000 at 3% and 15000 at 5%
