@@ -168,3 +168,7 @@ Galen sold 810 tickets for his church’s carnival for a total of $2,820. Childr
 Monica paid $8.36 for stamps. The number of 41-cent stamps was four more than twice the number of two-cent stamps. How many 41-cent stamps and how many two-cent stamps did Monica buy?
 - .41(2x + 4) + .02(x) = 8.26
   - 20 41-cent and 8 2-cent stamps
+
+# 3.32
+Henning is mixing raisins and nuts to make 10 pounds of trail mix. Raisins cost $2 a pound and nuts cost $6 a pound. If Henning wants his cost for the trail mix to be $5.20 a pound, how many pounds of raisins and how many pounds of nuts should he use?
+- 
