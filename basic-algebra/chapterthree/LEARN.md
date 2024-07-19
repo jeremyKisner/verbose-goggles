@@ -171,4 +171,5 @@ Monica paid $8.36 for stamps. The number of 41-cent stamps was four more than tw
 
 # 3.32
 Henning is mixing raisins and nuts to make 10 pounds of trail mix. Raisins cost $2 a pound and nuts cost $6 a pound. If Henning wants his cost for the trail mix to be $5.20 a pound, how many pounds of raisins and how many pounds of nuts should he use?
-- 
+- 2(x) + 6(10 - x)
+  - 2lbs of raisins and 8lbs of nuts
