@@ -137,3 +137,44 @@ Adam’s art gallery bought a photograph at original cost $250. Adam marked the 
 ⓑ the list price of the photograph
 - x = 250 + 100
  - x = 350
+
+# 3.26
+Adalberto has $2.25 in dimes and nickels in his pocket. He has nine more nickels than dimes. How many of each type of coin does he have?
+- .10d + .05(d + 9) = $2.25
+  -  12 Dimes and 21 Nickels
+
+
+# 3.27
+Maria has $2.43 in quarters and pennies in her wallet. She has twice as many pennies as quarters. How many coins of each type does she have?
+- .25q + .01(2q) = $2.43
+  -  9 Quarters and 18 pennies
+
+# 3.28
+Danny has $2.14 worth of pennies and nickels in his piggy bank. The number of nickels is two more than ten times the number of pennies. How many nickels and how many pennies does Danny have?
+- .01 * p + (10p + 2) = 2.14
+  - 4 pennies and 42 nickels
+
+# 3.29
+At a school concert, the total value of tickets sold was $1,506. Student tickets sold for $6 each and adult tickets sold for $9 each. The number of adult tickets sold was five less than three times the number of student tickets sold. How many student tickets and how many adult tickets were sold?
+- 9(3s - 5) + 6x = 1506
+  - 47 student and 136 adult tickets
+
+# 3.30
+Galen sold 810 tickets for his church’s carnival for a total of $2,820. Children’s tickets cost $3 each and adult tickets cost $5 each. How many children’s tickets and how many adult tickets did he sell?
+- c + 810 - c = 2820
+  - 615 children and 195 adult tickets
+
+# 3.31
+Monica paid $8.36 for stamps. The number of 41-cent stamps was four more than twice the number of two-cent stamps. How many 41-cent stamps and how many two-cent stamps did Monica buy?
+- .41(2x + 4) + .02(x) = 8.26
+  - 20 41-cent and 8 2-cent stamps
+
+# 3.32
+Henning is mixing raisins and nuts to make 10 pounds of trail mix. Raisins cost $2 a pound and nuts cost $6 a pound. If Henning wants his cost for the trail mix to be $5.20 a pound, how many pounds of raisins and how many pounds of nuts should he use?
+- 2(x) + 6(10 - x)
+  - 2lbs of raisins and 8lbs of nuts
+
+# 3.33
+Stacey has $20,000 to invest in two different bank accounts. One account pays interest at 3% per year and the other account pays interest at 5% per year. How much should she invest in each account if she wants to earn 4.5% interest per year on the total amount?
+- .03(x) + 5 (20000 - x)
+  - 5000 at 3% and 15000 at 5%
