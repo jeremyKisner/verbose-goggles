@@ -181,4 +181,5 @@ Stacey has $20,000 to invest in two different bank accounts. One account pays in
 
 # 3.34
 The measures of two angles of a triangle are 55 and 82 degrees. Find the measure of the third angle.
-- 
+- 180 = x + 55 + 82
+  - x = 43
