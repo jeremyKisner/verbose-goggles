@@ -188,3 +188,6 @@ The measures of two angles of a triangle are 55 and 82 degrees. Find the measure
 The perimeter of a triangular garden is 24 feet. The lengths of two sides are four feet and nine feet. How long is the third side?
 - 24 = 4 + 9 + x
   - 11
+
+# 3.36
+The area of a triangular church window is 90 square meters. The base of the window is 15 meters. What is the window’s height?
