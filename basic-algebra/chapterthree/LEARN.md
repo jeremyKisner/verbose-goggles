@@ -180,14 +180,23 @@ Stacey has $20,000 to invest in two different bank accounts. One account pays in
   - 5000 at 3% and 15000 at 5%
 
 # 3.34
+**The three angles of a triangle are related in a special way. The sum of their measures is  180°. m∠A+m∠B+m∠C=180**
+
 The measures of two angles of a triangle are 55 and 82 degrees. Find the measure of the third angle.
 - 180 = x + 55 + 82
   - x = 43
 
 # 3.35
+**Because the perimeter of a figure is the length of its boundary, the perimeter of  △ABC is the sum of the lengths of its three sides. P=a+b+c**
+
 The perimeter of a triangular garden is 24 feet. The lengths of two sides are four feet and nine feet. How long is the third side?
 - 24 = 4 + 9 + x
   - 11
 
 # 3.36
+**To find the area of a triangle, we need to know its base and height. The height is a line that connects the base to the opposite vertex and makes a 90° angle with the base. A=1/2bh,b=base,h=height**
+
 The area of a triangular church window is 90 square meters. The base of the window is 15 meters. What is the window’s height?
+- 90 = (1/2) 15 * h
+  - 90 = 15/2 * h
+    - h = 12
