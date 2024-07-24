@@ -183,3 +183,8 @@ Stacey has $20,000 to invest in two different bank accounts. One account pays in
 The measures of two angles of a triangle are 55 and 82 degrees. Find the measure of the third angle.
 - 180 = x + 55 + 82
   - x = 43
+
+# 3.35
+The perimeter of a triangular garden is 24 feet. The lengths of two sides are four feet and nine feet. How long is the third side?
+- 24 = 4 + 9 + x
+  - 11
