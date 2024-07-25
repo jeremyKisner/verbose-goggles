@@ -203,4 +203,5 @@ The area of a triangular church window is 90 square meters. The base of the wind
 
 # 3.37
 One angle of a right triangle measures 28°. What is the measure of the third angle?
-- 
+- 180 = 28 + 90 + x
+  - x = 62
