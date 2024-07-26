@@ -208,4 +208,7 @@ One angle of a right triangle measures 28°. What is the measure of the third an
 
 # 3.38
 The measure of one angle of a right triangle is 20 degrees more than the measure of the smallest angle. Find the measures of all three angles.
-- 
+- 180 = (x + 20) + x + 90
+  - 70 = 2x
+    - 35 = x
+      - 180 = 55 + 35 + 90
