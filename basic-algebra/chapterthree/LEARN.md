@@ -212,3 +212,11 @@ The measure of one angle of a right triangle is 20 degrees more than the measure
   - 70 = 2x
     - 35 = x
       - 180 = 55 + 35 + 90
+
+# 3.39
+**THE PYTHAGOREAN THEOREM**: In any right triangle,  a^2+b^2=c^2.
+Use the Pythagorean Theorem to find the length of the hypotenuse shown below.
+- 3^2 + 4^2 = c^2
+  - 9 + 16 = c^2
+    - 25 = c^2
+      - c = 5
