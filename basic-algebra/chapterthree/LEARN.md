@@ -220,3 +220,7 @@ Use the Pythagorean Theorem to find the length of the hypotenuse shown below.
   - 9 + 16 = c^2
     - 25 = c^2
       - c = 5
+
+# 3.40
+Use the Pythagorean Theorem to find the length of the leg shown below.
+- 5^2 + 13^2 = c*2
