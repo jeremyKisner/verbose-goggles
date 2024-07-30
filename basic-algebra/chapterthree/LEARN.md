@@ -223,4 +223,7 @@ Use the Pythagorean Theorem to find the length of the hypotenuse shown below.
 
 # 3.40
 Use the Pythagorean Theorem to find the length of the leg shown below.
-- 5^2 + 13^2 = c*2
+- 5^2 + x^2 = 13^2
+  - 25 + x^2 = 169
+    - x^2 = 144
+      - x = 12
