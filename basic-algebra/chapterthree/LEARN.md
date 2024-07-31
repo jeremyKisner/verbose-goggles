@@ -235,3 +235,7 @@ If he fastens the wood so that the ends of the brace are the same distance from 
   - 2a^2 = 100
     - a^2 = 50
       - a = 7.1
+
+# 3.42
+The length of a rectangle is 32 meters and the width is 20 meters. What is the perimeter?
+- 
