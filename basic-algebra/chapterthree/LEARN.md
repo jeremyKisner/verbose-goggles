@@ -231,4 +231,7 @@ Use the Pythagorean Theorem to find the length of the leg shown below.
 # 3.41
 Kelvin is building a gazebo and wants to brace each corner by placing a 10'' piece of wood diagonally as shown above.
 If he fastens the wood so that the ends of the brace are the same distance from the corner, what is the length of the legs of the right triangle formed? Approximate to the nearest tenth of an inch.
-- 
+- a^2 + a^2 = 10^2
+  - 2a^2 = 100
+    - a^2 = 50
+      - a = 7.1
