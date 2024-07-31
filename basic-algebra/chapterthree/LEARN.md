@@ -227,3 +227,8 @@ Use the Pythagorean Theorem to find the length of the leg shown below.
   - 25 + x^2 = 169
     - x^2 = 144
       - x = 12
+
+# 3.41
+Kelvin is building a gazebo and wants to brace each corner by placing a 10'' piece of wood diagonally as shown above.
+If he fastens the wood so that the ends of the brace are the same distance from the corner, what is the length of the legs of the right triangle formed? Approximate to the nearest tenth of an inch.
+- 
