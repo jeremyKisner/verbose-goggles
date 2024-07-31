@@ -238,4 +238,6 @@ If he fastens the wood so that the ends of the brace are the same distance from 
 
 # 3.42
 The length of a rectangle is 32 meters and the width is 20 meters. What is the perimeter?
-- 
+- P = 2(32) + 2(20)
+  - P = 64 + 40
+    - P = 104 meters
