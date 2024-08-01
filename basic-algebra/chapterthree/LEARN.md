@@ -247,3 +247,7 @@ The area of a rectangular room is 168 square feet. The length is 14 feet. What i
 - A = L * W
   - 168 = 14 * W
     - W = 12
+
+# 3.44
+Find the length of a rectangle with perimeter 50 inches and width 10 inches.
+- 
