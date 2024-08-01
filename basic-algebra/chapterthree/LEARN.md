@@ -262,3 +262,7 @@ The width of a rectangle is two feet less than the length. The perimeter is 52 f
     - 56 = 4x
       - x = 14
         - 12 x 14
+
+# 3.46
+The length of a rectangle is four centimeters more than twice the width. The perimeter is 32 centimeters. Find the length and width.
+- 
