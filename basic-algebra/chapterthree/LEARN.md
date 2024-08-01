@@ -244,4 +244,6 @@ The length of a rectangle is 32 meters and the width is 20 meters. What is the p
 
 # 3.43
 The area of a rectangular room is 168 square feet. The length is 14 feet. What is the width?
-- 
+- A = L * W
+  - 168 = 14 * W
+    - W = 12
