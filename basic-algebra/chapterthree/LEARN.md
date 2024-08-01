@@ -257,4 +257,8 @@ Find the length of a rectangle with perimeter 50 inches and width 10 inches.
 
 # 3.45
 The width of a rectangle is two feet less than the length. The perimeter is 52 feet. Find the length and width.
-- 
+- 52 = 2(x - 2) + 2(x)
+  - 52 = 2x - 4 + 2x
+    - 56 = 4x
+      - x = 14
+        - 12 x 14
