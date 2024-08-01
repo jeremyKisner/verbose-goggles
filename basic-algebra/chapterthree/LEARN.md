@@ -273,4 +273,8 @@ The length of a rectangle is four centimeters more than twice the width. The per
 
 # 3.47
 The perimeter of a rectangular swimming pool is 150 feet. The length is 15 feet more than the width. Find the length and width.
-- 
+- 150 = 2(x + 15) + 2(X)
+  - 150 = 2x + 30 + 2x
+    - 120 = 4x
+      - x = 30
+        - 45 x 30
