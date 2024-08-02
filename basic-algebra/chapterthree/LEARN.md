@@ -278,3 +278,7 @@ The perimeter of a rectangular swimming pool is 150 feet. The length is 15 feet 
     - 120 = 4x
       - x = 30
         - 45 x 30
+
+# 3.48
+An express train and a local train leave Pittsburgh to travel to Washington, D.C. The express train can make the trip in 4 hours and the local train takes 5 hours for the trip. The speed of the express train is 12 miles per hour faster than the speed of the local train. Find the speed of both trains.
+- 
