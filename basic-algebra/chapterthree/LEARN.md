@@ -285,3 +285,7 @@ An express train and a local train leave Pittsburgh to travel to Washington, D.C
   - 5r = 4r + 48
     - r = 48
       - local train is 48mph and express train is 60mph
+
+# 3.49
+Christopher and his parents live 115 miles apart. They met at a restaurant between their homes to celebrate his mother’s birthday. Christopher drove 1.5 hours while his parents drove 1 hour to get to the restaurant. Christopher’s average speed was 10 miles per hour faster than his parents’ average speed. What were the average speeds of Christopher and of his parents as they drove to the restaurant?
+- 
