@@ -301,3 +301,9 @@ Two truck drivers leave a rest area on the interstate at the same time. One truc
 
 # 3.51
 When Katie Mae walks to school, it takes her 30 minutes. If she rides her bike, it takes her 15 minutes. Her speed is three miles per hour faster when she rides her bike than when she walks. What are her walking speed and her speed riding her bike?
+- 1/2r = 1/4(r + 3)
+  - 4r = 2(r + 3)
+    - 4r = 2r + 6
+      - 2r = 6
+        - r = 3
+- Katie walks 3mph and bikes for 6mph.
