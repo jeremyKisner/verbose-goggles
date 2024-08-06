@@ -298,3 +298,6 @@ Two truck drivers leave a rest area on the interstate at the same time. One truc
 - 60t + 70t = 325
   - 130t = 325
     - t = 2.5
+
+# 3.51
+When Katie Mae walks to school, it takes her 30 minutes. If she rides her bike, it takes her 15 minutes. Her speed is three miles per hour faster when she rides her bike than when she walks. What are her walking speed and her speed riding her bike?
