@@ -295,4 +295,6 @@ Christopher and his parents live 115 miles apart. They met at a restaurant betwe
 
 # 3.50
 Two truck drivers leave a rest area on the interstate at the same time. One truck travels east and the other one travels west. The truck traveling west travels at 70 mph and the truck traveling east has an average speed of 60 mph. How long will they travel before they are 325 miles apart?
-- 
+- 60t + 70t = 325
+  - 130t = 325
+    - t = 2.5
