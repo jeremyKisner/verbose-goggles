@@ -322,4 +322,6 @@ Emma got a new job and will have to move. Her monthly income will be $5,625. To 
 
 # 3.54
 Dawn won a mini-grant of $4,000 to buy tablet computers for her classroom. The tablets she would like to buy cost $254.12 each, including tax and delivery. What is the maximum number of tablets Dawn can buy?
-- 
+- 4000 = 254.12x
+  - x = 15.7
+    - Dawn can only buy 15 tablets.
