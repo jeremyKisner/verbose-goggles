@@ -317,4 +317,5 @@ Hamilton loves to travel to Las Vegas, 255 miles from his home in Orange County.
 
 # 3.53
 Emma got a new job and will have to move. Her monthly income will be $5,625. To qualify to rent an apartment, Emma’s monthly income must be at least three times as much as the rent. What is the highest rent Emma will qualify for?
-- 
+- 5625 = 3r
+  - r = 1875
