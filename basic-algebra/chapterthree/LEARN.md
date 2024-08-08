@@ -337,3 +337,7 @@ Sergio and Lizeth have a very tight vacation budget. They plan to rent a car fro
 - 75 + .25m = 200
   - .25m = 125
     - m = 500
+
+# 3.57
+Elliot has a landscape maintenance business. His monthly expenses are $1,100. If he charges $60 per job, how many jobs must he do to earn a profit of at least $4,000 a month?
+- 
