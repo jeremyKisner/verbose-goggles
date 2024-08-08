@@ -334,4 +334,6 @@ Pete works at a computer store. His weekly pay will be either a fixed amount, $9
 
 # 3.56
 Sergio and Lizeth have a very tight vacation budget. They plan to rent a car from a company that charges $75 a week plus $0.25 a mile. How many miles can they travel and still keep within their $200 budget?
-- 
+- 75 + .25m = 200
+  - .25m = 125
+    - m = 500
