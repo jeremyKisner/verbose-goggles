@@ -325,3 +325,7 @@ Dawn won a mini-grant of $4,000 to buy tablet computers for her classroom. The t
 - 4000 = 254.12x
   - x = 15.7
     - Dawn can only buy 15 tablets.
+
+# 3.55
+Pete works at a computer store. His weekly pay will be either a fixed amount, $925, or $500 plus 12% of his total sales. How much should his total sales be for his variable pay option to exceed the fixed amount of $925?
+- 
