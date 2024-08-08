@@ -328,4 +328,6 @@ Dawn won a mini-grant of $4,000 to buy tablet computers for her classroom. The t
 
 # 3.55
 Pete works at a computer store. His weekly pay will be either a fixed amount, $925, or $500 plus 12% of his total sales. How much should his total sales be for his variable pay option to exceed the fixed amount of $925?
-- 
+- 500 + .12p = 925
+  - .12p = 425
+    - p = 3541.67 in total sales
