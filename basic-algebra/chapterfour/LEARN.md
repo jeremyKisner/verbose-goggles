@@ -26,3 +26,15 @@ Plot each point in a rectangular coordinate system and identify the quadrant in 
 
 # 4.3
 Name the ordered pair of each point shown in the rectangular coordinate system.
+- **A** 
+    - (-3,3)
+- **B** 
+    - (-1,-3)
+- **C** 
+    - (2, 4)
+- **D** 
+    - (4,-4)
+- **E** 
+    - (0,-2)
+- **F** 
+    - (3. 0)
