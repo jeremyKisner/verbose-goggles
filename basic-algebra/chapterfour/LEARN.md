@@ -23,3 +23,6 @@ Plot each point in a rectangular coordinate system and identify the quadrant in 
     - II
 - ⓔ  (−3,5/2)
     - II
+
+# 4.3
+Name the ordered pair of each point shown in the rectangular coordinate system.
