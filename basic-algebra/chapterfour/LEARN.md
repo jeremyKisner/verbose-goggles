@@ -14,7 +14,12 @@ Plot each point in the rectangular coordinate system and identify the quadrant i
 # 4.2
 Plot each point in a rectangular coordinate system and identify the quadrant in which the point is located:
 - ⓐ  (−4,1)
+    - II
 - ⓑ  (−2,3)
+    - II
 - ⓒ  (2,−5)
+    - IV
 - ⓓ  (−2,5)
-- ⓔ  (−3,52)
+    - II
+- ⓔ  (−3,5/2)
+    - II
