@@ -10,3 +10,11 @@ Plot each point in the rectangular coordinate system and identify the quadrant i
     - II
 - (3,5/2)
     - I
+
+# 4.2
+Plot each point in a rectangular coordinate system and identify the quadrant in which the point is located:
+- ⓐ  (−4,1)
+- ⓑ  (−2,3)
+- ⓒ  (2,−5)
+- ⓓ  (−2,5)
+- ⓔ  (−3,52)
