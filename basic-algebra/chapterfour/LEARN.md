@@ -40,5 +40,16 @@ Name the ordered pair of each point shown in the rectangular coordinate system.
     - (3. 0)
 
 # 4.4
-When an equation is in the form  Ax+By=C, we say it is in standard form.
-Determine which ordered pairs are solutions to the equation  x+4y=8.
+When an equation is in the form Ax+By=C, we say it is in standard form.
+Determine which ordered pairs are solutions to the equation x+4y=8.
+- ⓐ  (0,2)
+    - 0 + 4(2) = 8
+        - 8 = 8
+- ⓑ  (2,−4)
+    - 2 + 4(-4) = 8
+        - 2 - 16 = 8
+            - 14 != 8
+- ⓒ  (−4,3)
+    - -4 + 4(3) = 8
+        - -4 + 12 = 8
+            - 8 = 8
