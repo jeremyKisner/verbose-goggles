@@ -55,7 +55,14 @@ Determine which ordered pairs are solutions to the equation x+4y=8.
             - 8 = 8
 
 # 4.5
-Determine which ordered pairs are solutions to the equation x+4y=8.
-- ⓐ  (0,2)
-- ⓑ  (2,−4)
-- ⓒ  (−4,3)
+Which of the following ordered pairs are solutions to the equation y=5x−1?
+- ⓐ  (0,−1)
+    - -1 = 5(0)-1
+        - -1 = -1
+- ⓑ  (1,4)
+    - 4 = 5(1)-1
+        - 4 = 4
+- ⓒ  (−2,−7)
+    - -7 = 5(-2)-1
+        - -7 = -10 -1
+            - -7 != -11
