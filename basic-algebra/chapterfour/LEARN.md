@@ -69,8 +69,16 @@ Which of the following ordered pairs are solutions to the equation y=5x−1?
 
 # 4.6
 Complete Table 4.4 to find three solutions to the equation y=4x−2.
-| x | y |
-| - | - |
-|0  |   |
-|-1 |   |
-|2  |   |
+
+|  x  |  y  |
+| --- | --- |
+|  0  |  -2 |
+| -1  |  -6 |
+|  2  |  6  |
+
+- y = 4(0) - 2
+    - y = -2
+- y = 4(-1) - 2
+    - y = -6
+- y = 4(2) - 2
+    - y = 6
