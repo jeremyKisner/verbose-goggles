@@ -66,3 +66,11 @@ Which of the following ordered pairs are solutions to the equation y=5x−1?
     - -7 = 5(-2)-1
         - -7 = -10 -1
             - -7 != -11
+
+# 4.6
+Complete Table 4.4 to find three solutions to the equation y=4x−2.
+| x | y |
+| - | - |
+|0  |   |
+|-1 |   |
+|2  |   |
