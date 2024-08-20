@@ -104,4 +104,17 @@ Find three solutions to the equation 5x−4y=20
 
 # 4.8
 Find three solutions to the equation y=−3x+2.
-- 
+|  x  |  y  |
+| --- | --- |
+| -1  |  5  |
+|  6  | -16 |
+|  1  | -1  |
+- y = -3(-1) + 2
+    - y = 3 + 2
+        - y = 5
+- y = -3(6) + 2
+    - y = -18 + 2
+        - y = -16
+- y = -3(1) + 2
+    - y = -3 + 2
+        - y = -1
