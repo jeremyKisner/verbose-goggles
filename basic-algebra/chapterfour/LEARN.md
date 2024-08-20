@@ -144,6 +144,7 @@ The graph of a linear equation Ax+By=C is a line.
 The graph of y=2x−3 is shown. For each ordered pair, decide:
 - ⓐ Is the ordered pair a solution to the equation?
 - ⓑ Is the point on the line?
+
 |  x  |  y  |  A  |  B  |
 | --- | --- | --- | --- |
 |  O  | -3  |  Y  |  Y  |
