@@ -118,3 +118,7 @@ Find three solutions to the equation y=−3x+2.
 - y = -3(1) + 2
     - y = -3 + 2
         - y = -1
+
+# 4.9
+Find three solutions to the equation 3x+2y=6.
+- 
