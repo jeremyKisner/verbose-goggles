@@ -82,3 +82,6 @@ Complete Table 4.4 to find three solutions to the equation y=4x−2.
     - y = -6
 - y = 4(2) - 2
     - y = 6
+
+# 4.7
+Find three solutions to the equation 5x−4y=20
