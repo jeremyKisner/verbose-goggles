@@ -121,4 +121,19 @@ Find three solutions to the equation y=−3x+2.
 
 # 4.9
 Find three solutions to the equation 3x+2y=6.
-- 
+|  x  |  y  |
+| --- | --- |
+|  O  |  3  |
+|  1  | 3/2 |
+|  2  |  0  |
+- 3(0) + 2y = 6
+    - 2y = 6
+        - y = 3
+- 3(1) + 2y = 6
+    - 3 + 2y = 6
+        - 2y = 3
+            - y = 3/2
+- 3(2) + 2y = 6
+    - 6 + 2y = 6
+        - 2y = 0
+            - y = 0
