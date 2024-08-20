@@ -101,3 +101,7 @@ Find three solutions to the equation 5x−4y=20
     - 5x - 20 = 20
         - 5x = 40
             - x = 8
+
+# 4.8
+Find three solutions to the equation y=−3x+2.
+- 
