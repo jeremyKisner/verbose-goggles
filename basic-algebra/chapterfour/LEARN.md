@@ -140,14 +140,22 @@ Find three solutions to the equation 3x+2y=6.
 
 # 4.10
 The graph of a linear equation Ax+By=C is a line.
+
 The graph of y=2x−3 is shown. For each ordered pair, decide:
 - ⓐ Is the ordered pair a solution to the equation?
 - ⓑ Is the point on the line?
-|  x  |  y  |
-| --- | --- |
-|  O  | -3  |
-|  3  |  3  |
-|  2  | -3  |
-| -1  | -5  |
+|  x  |  y  |  A  |  B  |
+| --- | --- | --- | --- |
+|  O  | -3  |  Y  |  Y  |
+|  3  |  3  |  Y  |  Y  |
+|  2  | -3  |  N  |  N  |
+| -1  | -5  |  Y  |  Y  |
 
-- 
+- -3 = 2(0) - 3
+    - -3 = -3
+- 3 = 2(3) - 3
+    - 3 = 3
+- -3 = 2(2) - 3
+    - -3 != 1
+- -5 = 2(-1) - 3
+    - -5 = -5
