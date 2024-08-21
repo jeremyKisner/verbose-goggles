@@ -162,7 +162,7 @@ The graph of y=2x−3 is shown. For each ordered pair, decide:
     - -5 = -5
 
 # 4.11
-- Graph the equation y=2x+1 by plotting points.
+Graph the equation y=2x+1 by plotting points.
     - y = 2(0) + 1
         - y = 1
             - (0,1)
