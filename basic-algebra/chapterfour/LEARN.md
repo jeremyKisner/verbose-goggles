@@ -163,12 +163,12 @@ The graph of y=2x−3 is shown. For each ordered pair, decide:
 
 # 4.11
 Graph the equation y=2x+1 by plotting points.
-    - y = 2(0) + 1
-        - y = 1
-            - (0,1)
-    - y = 2(1) + 1
-        - y = 3
-            - (1,3)
-    - y = 2(-1) + 1
-        - y = -1
-            - (-1,-1)
+- y = 2(0) + 1
+    - y = 1
+        - (0,1)
+- y = 2(1) + 1
+    - y = 3
+        - (1,3)
+- y = 2(-1) + 1
+    - y = -1
+        - (-1,-1)
