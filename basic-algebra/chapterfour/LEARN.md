@@ -160,3 +160,7 @@ The graph of y=2x−3 is shown. For each ordered pair, decide:
     - -3 != 1
 - -5 = 2(-1) - 3
     - -5 = -5
+
+# 4.11
+- Graph the equation y=2x+1 by plotting points.
+    - 
