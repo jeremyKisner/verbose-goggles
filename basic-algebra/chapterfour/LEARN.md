@@ -175,3 +175,13 @@ Graph the equation y=2x+1 by plotting points.
 
 # 4.12
 - Graph the equation y=−3x.
+ - y = -3(0)
+    - y = 0
+        - (0,0)
+- y = -3(-1)
+    - y = 3
+        - (-1, 3)
+- y = -3(1)
+    - y = -3
+        - (1, -3)
+
