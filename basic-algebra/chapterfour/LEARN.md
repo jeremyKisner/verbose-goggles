@@ -172,3 +172,6 @@ Graph the equation y=2x+1 by plotting points.
 - y = 2(-1) + 1
     - y = -1
         - (-1,-1)
+
+# 4.12
+- Graph the equation y=−3x.
