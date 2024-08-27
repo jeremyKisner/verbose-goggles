@@ -185,3 +185,6 @@ Graph the equation y=2x+1 by plotting points.
     - y = -3
         - (1, -3)
 
+# 4.13
+Graph the equation y=12x+3.
+- 
