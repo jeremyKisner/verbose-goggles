@@ -197,3 +197,7 @@ Graph the equation y=12x+3.
 - y = 12(1) + 3
     - y = 15
         - (1,15)
+
+# 4.14
+Graph the equation 3x+y=−1.
+- 
