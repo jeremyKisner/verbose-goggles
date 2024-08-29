@@ -229,3 +229,6 @@ Graph the equation 2x−3y=6.
 |  O  | -2  |
 |  3  |  0  |
 |  6  |  2  |
+
+# 4.16
+Graph the equation x=2.
