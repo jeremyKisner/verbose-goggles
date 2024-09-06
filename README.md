@@ -1,6 +1,6 @@
 # verbose-goggles
 
-This repo is a data dump of ideas and problems encountered during this learning journey.
+This repo is a data dump of math problems that I encountered.
 
 Resources:
 - [Open Stax](https://openstax.org/details/books/elementary-algebra-2e)
