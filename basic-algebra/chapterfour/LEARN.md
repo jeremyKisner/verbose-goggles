@@ -241,3 +241,9 @@ Graph the equation x=2.
 
 # 4.17
 Graph the equation  y=−1.
+
+|  x  |  y  |
+| --- | --- |
+|  1  | -1  |
+|  2  | -1  |
+| -1  | -1  |
