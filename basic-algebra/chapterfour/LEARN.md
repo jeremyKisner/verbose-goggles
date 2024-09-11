@@ -238,3 +238,6 @@ Graph the equation x=2.
 |  2  |  1  |
 |  2  |  2  |
 |  2  |  3  |
+
+# 4.17
+Graph the equation  y=−1.
