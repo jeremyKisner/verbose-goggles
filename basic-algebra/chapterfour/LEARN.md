@@ -270,3 +270,6 @@ Graph y=−3x and y=−3 in the same rectangular coordinate system.
 |  1  | -3  |
 |  2  | -3  |
 | -1  | -3  |
+
+# 4.19
+Find the x- and y- intercepts on each graph.
