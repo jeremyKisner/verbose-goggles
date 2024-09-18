@@ -273,3 +273,12 @@ Graph y=−3x and y=−3 in the same rectangular coordinate system.
 
 # 4.19
 Find the x- and y- intercepts on each graph.
+- a
+    - x = (4,0)
+    - y = (0,2)
+- b
+    - x = (2,0)
+    - y = (0,-6)
+- c
+    - x = (-5,0)
+    - y = (0,-5)
