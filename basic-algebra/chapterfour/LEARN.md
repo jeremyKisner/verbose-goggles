@@ -247,3 +247,6 @@ Graph the equation  y=−1.
 |  1  | -1  |
 |  2  | -1  |
 | -1  | -1  |
+
+# 4.18
+Graph y=−3x and y=−3 in the same rectangular coordinate system.
