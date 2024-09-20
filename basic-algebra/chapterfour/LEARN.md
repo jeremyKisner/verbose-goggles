@@ -285,3 +285,11 @@ Find the x- and y- intercepts on each graph.
 
 # 4.20
 Find the intercepts of 2x+y=6.
+- y = 6
+- 2x = 6
+    - x = 3
+
+|  x  |  y  |
+| --- | --- |
+|  3  |  0  |
+|  6  |  0  |
