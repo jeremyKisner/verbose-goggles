@@ -282,3 +282,6 @@ Find the x- and y- intercepts on each graph.
 - c
     - x = (-5,0)
     - y = (0,-5)
+
+# 4.20
+Find the intercepts of 2x+y=6.
