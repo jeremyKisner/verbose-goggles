@@ -296,3 +296,12 @@ Find the intercepts of 2x+y=6.
 
 # 4.21
 Find the intercepts of 4x–3y=12.
+- -3y = 12
+    - y = -4
+- 4x = 12
+    - x = 3
+
+|  x  |  y  |
+| --- | --- |
+|  0  | -4  |
+|  3  |  0  |
