@@ -292,4 +292,7 @@ Find the intercepts of 2x+y=6.
 |  x  |  y  |
 | --- | --- |
 |  3  |  0  |
-|  6  |  0  |
+|  0  |  6  |
+
+# 4.21
+Find the intercepts of 4x–3y=12.
