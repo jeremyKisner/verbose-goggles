@@ -320,3 +320,6 @@ Graph –x+2y=6 using the intercepts.
 | -6  |  0  |
 |  0  |  3  |
 |  2  |  4  |
+
+# 4.23
+Graph 4x–3y=12 using the intercepts.
