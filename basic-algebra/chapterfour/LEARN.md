@@ -315,6 +315,7 @@ Graph –x+2y=6 using the intercepts.
 - -2 + 2y = 6
     - 2y = 8
         - y = 4
+
 |  x  |  y  |
 | --- | --- |
 | -6  |  0  |
@@ -323,3 +324,17 @@ Graph –x+2y=6 using the intercepts.
 
 # 4.23
 Graph 4x–3y=12 using the intercepts.
+- -3y = 12
+    - y = -4
+- 4x = 12
+    - x = 3
+- 4x - 3(4) = 12
+    - 4x - 12 = 12
+        - 4x = 24
+            - x = 6
+
+|  x  |  y  |
+| --- | --- |
+|  0  | -4  |
+|  3  |  0  |
+|  6  |  4  |
