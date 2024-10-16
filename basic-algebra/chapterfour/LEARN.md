@@ -308,3 +308,15 @@ Find the intercepts of 4x–3y=12.
 
 # 4.22
 Graph –x+2y=6 using the intercepts.
+- 2y = 6
+    - y = 3
+- -x = 6
+    - x = -6
+- -2 + 2y = 6
+    - 2y = 8
+        - y = 4
+|  x  |  y  |
+| --- | --- |
+| -6  |  0  |
+|  0  |  3  |
+|  2  |  4  |
