@@ -343,3 +343,6 @@ Graph 4x–3y=12 using the intercepts.
 What is the slope of the line on the geoboard shown?
 - m = rise/run
     - m = 3 / 4
+
+# 4.26
+What is the slope of the line on the geoboard shown?
