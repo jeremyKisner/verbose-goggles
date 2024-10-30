@@ -351,4 +351,6 @@ What is the slope of the line on the geoboard shown?
 # 4.32
 Find the slope of each line:
 - x = 8
+    - undefined
  - y = −5
+    - slope = 0
