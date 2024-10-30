@@ -347,3 +347,8 @@ What is the slope of the line on the geoboard shown?
 # 4.26
 What is the slope of the line on the geoboard shown?
 - m = -1/3
+
+# 4.32
+Find the slope of each line:
+- x = 8
+ - y = −5
