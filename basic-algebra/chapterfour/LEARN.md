@@ -366,3 +366,6 @@ Use the slope formula to find the slope of the line between the points (1,2) and
 
 # 4.34
 Use the slope formula to find the slope of the line through the points (−2,−3) and (−7,4).
+- (4 + 3) / (-7 + 2)
+    - 7 / -5
+        - -7/5
