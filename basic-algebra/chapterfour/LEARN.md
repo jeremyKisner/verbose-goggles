@@ -354,3 +354,9 @@ Find the slope of each line:
     - undefined
  - y = −5
     - slope = 0
+
+# Slope Formula
+m=y2−y1x2−x1
+
+# 4.33
+Use the slope formula to find the slope of the line between the points (1,2) and (4,5).
