@@ -369,3 +369,6 @@ Use the slope formula to find the slope of the line through the points (−2,−
 - (4 + 3) / (-7 + 2)
     - 7 / -5
         - -7/5
+
+# 4.38
+The ‘pitch’ of a building’s roof is the slope of the roof. Knowing the pitch is important in climates where there is heavy snowfall. If the roof is too flat, the weight of the snow may cause it to collapse. What is the slope of the roof shown?
