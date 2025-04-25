@@ -377,4 +377,7 @@ The ‘pitch’ of a building’s roof is the slope of the roof. Knowing the pit
 
 # 4.40
 Use the graph to find the slope and y-intercept of the line, y=2x+1. Compare these values to the equation y=mx+b.
-- 
+- (0, 1)
+    - 1 = 2*0 + 1
+        - m = rise/run = 2/1
+            - m = 2
