@@ -390,3 +390,7 @@ Identify the slope and y-intercept of the line with equation y=−3x+5.
 
 # 4.42
 Identify the slope and y-intercept of the line with equation x+2y=6.
+- 2y = -x + 6
+    - y = -1/2x + 3
+        - m = -1/2
+        - y-intercept is (0, 3)
