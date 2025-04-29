@@ -387,3 +387,6 @@ Identify the slope and y-intercept of the line with equation y=−3x+5.
 - y = mx + b
     - m = -3
     - y-intercept is (0,5)
+
+# 4.42
+Identify the slope and y-intercept of the line with equation x+2y=6.
