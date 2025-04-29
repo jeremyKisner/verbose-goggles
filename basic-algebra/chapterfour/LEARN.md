@@ -384,3 +384,6 @@ Use the graph to find the slope and y-intercept of the line, y=2x+1. Compare the
 
 # 4.41
 Identify the slope and y-intercept of the line with equation y=−3x+5.
+- y = mx + b
+    - m = -3
+    - y-intercept is (0,5)
