@@ -394,3 +394,6 @@ Identify the slope and y-intercept of the line with equation x+2y=6.
     - y = -1/2x + 3
         - m = -1/2
         - y-intercept is (0, 3)
+
+# 4.46
+Graph the line of the equation 4x−3y=12 using its slope and y-intercept.
