@@ -381,3 +381,6 @@ Use the graph to find the slope and y-intercept of the line, y=2x+1. Compare the
     - 1 = 2*0 + 1
         - m = rise/run = 2/1
             - m = 2
+
+# 4.41
+Identify the slope and y-intercept of the line with equation y=−3x+5.
