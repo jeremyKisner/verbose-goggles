@@ -407,3 +407,7 @@ Find an equation of a line with slope −7 and y-intercept (0,−1).
 - m = -7
     - y-intercept is -1
         - y = -7x - 1
+
+# 4.58
+Find the equation of the line.
+- y = 2/3x - 4
