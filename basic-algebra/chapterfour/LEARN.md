@@ -401,3 +401,6 @@ Graph the line of the equation 4x−3y=12 using its slope and y-intercept.
     - y = 4/3x - 4
         - m = 4/3
         - y-intercept is (0,-4)
+
+# 4.57
+Find an equation of a line with slope −7 and y-intercept (0,−1).
