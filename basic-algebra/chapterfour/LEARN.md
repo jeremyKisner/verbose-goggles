@@ -411,3 +411,7 @@ Find an equation of a line with slope −7 and y-intercept (0,−1).
 # 4.58
 Find the equation of the line.
 - y = 2/3x - 4
+
+
+# 4.59
+Find an equation of a line with slope m=2/5 that contains the point (10,3). Write the equation in slope–intercept form.
