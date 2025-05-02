@@ -415,3 +415,6 @@ Find the equation of the line.
 
 # 4.59
 Find an equation of a line with slope m=2/5 that contains the point (10,3). Write the equation in slope–intercept form.
+- y - 3 = 2/5(x - 10)
+    - y - 3 = 2/5x - 4
+        - y = 2/5x - 1
