@@ -430,3 +430,6 @@ Find an equation of a horizontal line that contains the point (−1,2). Write th
 - y - 2 = 0 (x + 2)
     - y - 2 = 0 
         - y = 2
+
+# 4.62
+Find an equation of a line that contains the points  (5,4) and (3,6). Write the equation in slope–intercept form.
