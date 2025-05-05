@@ -424,3 +424,6 @@ Find an equation of a line with slope m=−1/3 that contains the point  (6,−4)
 - y + 4 = -1/3(x - 6)
     - y + 4 = -1/3x + 2
         - y = -1/3x - 2
+
+# 4.61
+Find an equation of a horizontal line that contains the point (−1,2). Write the equation in slope–intercept form.
