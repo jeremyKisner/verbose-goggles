@@ -433,3 +433,9 @@ Find an equation of a horizontal line that contains the point (−1,2). Write th
 
 # 4.62
 Find an equation of a line that contains the points  (5,4) and (3,6). Write the equation in slope–intercept form.
+- m = 5 - 3 / 4 - 6
+    - m = 2 / -2
+        m = -1
+- y - 4 = -1(x - 5)
+    - y - 4 = -1x + 5
+        - y = -1x + 9
