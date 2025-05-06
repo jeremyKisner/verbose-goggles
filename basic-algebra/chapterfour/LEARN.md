@@ -439,3 +439,6 @@ Find an equation of a line that contains the points  (5,4) and (3,6). Write the 
 - y - 4 = -1(x - 5)
     - y - 4 = -1x + 5
         - y = -1x + 9
+
+# 4.63
+Find an equation of a line that contains the points  (−3,−1) and  (2,−2). Write the equation in slope–intercept form.
