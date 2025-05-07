@@ -450,3 +450,6 @@ Find an equation of a line that contains the points  (−3,−1) and  (2,−2). 
 
 # 4.64
 Find an equation of a line that contains the points  (−2,4) and (−2,−3). Write the equation in slope–intercept form.
+- m = -4 - 1 / 5 - 5
+    - m = -5 / 0 
+        - m = undefined
