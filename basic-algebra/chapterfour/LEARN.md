@@ -456,3 +456,7 @@ Find an equation of a line that contains the points  (−2,4) and (−2,−3). W
 
 # 4.65
 Find an equation of a line parallel to y=2x−3 that contains the point (−2,1). Write the equation in slope–intercept form.
+- m = 2
+- y - 1 = 2(x + 2)
+    - y - 1 = 2x + 4
+        - y = 2x + 5
