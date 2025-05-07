@@ -447,3 +447,6 @@ Find an equation of a line that contains the points  (−3,−1) and  (2,−2). 
 - y + 2 = -1/5(x - 2)
     - y + 2 = -1/5x + 2/5
         - y = -1/5x - 8/5
+
+# 4.64
+Find an equation of a line that contains the points  (−2,4) and (−2,−3). Write the equation in slope–intercept form.
