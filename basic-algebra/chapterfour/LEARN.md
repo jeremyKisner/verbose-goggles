@@ -469,3 +469,6 @@ Find an equation of a line perpendicular to y=2x−3 that contains the point (�
 - y - 1 = -1/2(x + 2)
     - y - 1 = -1/2x - 1
         - y = -1/2x
+
+# 4.67
+Find an equation of a line perpendicular to x=5 that contains the point (3,−2). Write the equation in slope–intercept form.
