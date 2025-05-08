@@ -462,4 +462,10 @@ Find an equation of a line parallel to y=2x−3 that contains the point (−2,1)
         - y = 2x + 5
 
 # 4.66
+Perpendicular lines are negative reciprocals.
 Find an equation of a line perpendicular to y=2x−3 that contains the point (−2,1). Write the equation in slope–intercept form.
+- m = 2
+    - m = -1/2
+- y - 1 = -1/2(x + 2)
+    - y - 1 = -1/2x - 1
+        - y = -1/2x
