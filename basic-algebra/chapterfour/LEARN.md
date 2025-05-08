@@ -475,3 +475,6 @@ Find an equation of a line perpendicular to x=5 that contains the point (3,−2)
 - m = 0
 - y + 2 = 0*(x - 5)
     - y = -2
+
+# 4.68
+Find an equation of a line that is perpendicular to  y=−4 that contains the point (−4,2). Write the equation in slope–intercept form.
