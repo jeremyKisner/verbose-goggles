@@ -492,7 +492,7 @@ Determine whether each ordered pair is a solution to the inequality `y>x+4`.
     - 6 > 5
         - true
 - (2,6)
-    - 6 > 10
+    - 6 > 6
         - false
 - (−5,−15)
     - -15 > -1
