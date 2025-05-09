@@ -484,9 +484,19 @@ Find an equation of a line that is perpendicular to  y=−4 that contains the po
         - y = 2
 
 # 4.69
-Determine whether each ordered pair is a solution to the inequality y>x+4.
+Determine whether each ordered pair is a solution to the inequality `y>x+4`.
 - (0,0)
+    - 0 > 4 
+        = false
 - (1,6)
+    - 6 > 5
+        - true
 - (2,6)
+    - 6 > 10
+        - false
 - (−5,−15)
+    - -15 > -1
+        - false
 - (−8,12)
+    - 12 > -4
+        - true
