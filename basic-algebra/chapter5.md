@@ -16,3 +16,15 @@ Determine whether the ordered pair is a solution to the system:
 
 # 5.2
 Solve the system by graphing:
+- 2x + y = 7
+    - y = -2x + 7
+        - \
+- x - 2y = 6
+    - x - 2(0) = 6
+        - x = 6
+    - 0 - 2y = 6
+        - -2y = 6
+            - y = -3
+    - (6, 0), (0, -3)
+        - /
+Lines intersect at (4, -1)
