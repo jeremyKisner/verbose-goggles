@@ -40,3 +40,6 @@ Solve the system by graphing:
     - b = -1
         - /
 Lines intersect at (1, 3).
+
+# 5.4
+Solve the system by graphing:
