@@ -43,3 +43,12 @@ Lines intersect at (1, 3).
 
 # 5.4
 Solve the system by graphing:
+- 3x + y = -1
+    - y = -3x - 1
+        - m = -3/1
+        - b = -1
+- 2x + y = 0
+    - y = -2x + 0
+        - m = -2/1
+        - b = 0
+Lines intersect at (-1, 2).
