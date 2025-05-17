@@ -54,3 +54,10 @@ Solve the system by graphing:
 Lines intersect at (-1, 2).
 
 # 5.5
+Solve the system by graphing:
+- x + y = 2
+    - y = -x + 2
+- x - y = 4
+    - -y = -x + 4
+        - y = x - 4
+Lines intersect at (3, -1).
