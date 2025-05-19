@@ -61,3 +61,8 @@ Solve the system by graphing:
     - -y = -x + 4
         - y = x - 4
 Lines intersect at (3, -1).
+
+# 5.6
+Solve the system by graphing:
+- y = 6
+- 2x + 3y = 12
