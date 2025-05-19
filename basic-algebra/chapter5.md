@@ -66,3 +66,8 @@ Lines intersect at (3, -1).
 Solve the system by graphing:
 - y = 6
 - 2x + 3y = 12
+    - 3y = -2x + 12
+        - y = -2/3x + 4
+            - m = -2/3
+            - b = 4
+The solution is (-3, 6).
