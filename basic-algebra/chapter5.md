@@ -88,4 +88,11 @@ The lines are parallel.
 # 5.8
 Solve the system by graphing.
 - y = 2x - 3
-- -6 + 3y = -9
+    - m = 2/1
+    - b = -3
+- -6x + 3y = -9
+    - 3y = -6x - 9
+        - y = -1x - 3
+            - m = 1/1
+            - b = -3
+There are infinitely many solutions to this system.
