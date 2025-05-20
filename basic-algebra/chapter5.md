@@ -71,3 +71,8 @@ Solve the system by graphing:
             - m = -2/3
             - b = 4
 The solution is (-3, 6).
+
+# 5.7
+Solve the system by graphing
+- y = 1/2x - 3
+- x - 2y = 4
