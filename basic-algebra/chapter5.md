@@ -84,3 +84,8 @@ Solve the system by graphing
     - x = 4
         - (4, 0)
 The lines are parallel.
+
+# 5.8
+Solve the system by graphing.
+- y = 2x - 3
+- -6 + 3y = -9
