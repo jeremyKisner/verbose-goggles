@@ -75,4 +75,12 @@ The solution is (-3, 6).
 # 5.7
 Solve the system by graphing
 - y = 1/2x - 3
+    - m = 1/2
+    - b = -3
 - x - 2y = 4
+    - -2y = 4
+        - y = -2
+            - (0, -2)
+    - x = 4
+        - (4, 0)
+The lines are parallel.
