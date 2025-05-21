@@ -96,3 +96,8 @@ Solve the system by graphing.
             - m = 1/1
             - b = -3
 There are infinitely many solutions to this system.
+
+# 5.9
+Without graphing, determine the number of solutions and then classify the system of equations:
+- y = 3x -1
+- 6x - 2y = 12
