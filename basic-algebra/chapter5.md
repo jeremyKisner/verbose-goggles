@@ -100,4 +100,15 @@ There are infinitely many solutions to this system.
 # 5.9
 Without graphing, determine the number of solutions and then classify the system of equations:
 - y = 3x -1
+    - m = 3/1
+    - b = -1
 - 6x - 2y = 12
+    - -2y = -6x + 12
+        - y = 3x + 4
+            - m = 3/1
+            - b = 4
+Lines are parallel.
+- No solution
+- Inconsistent
+- Independent
+
