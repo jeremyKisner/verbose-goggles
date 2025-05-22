@@ -115,4 +115,15 @@ Lines are parallel.
 # 5.10
 Without graphing, determine the number of solutions and then classify the system of equations:
 - 2x + y = -3
+    - y = -2x -3
+        - m = -2/1
+        - b = -3
 - x - 5y = 5
+    - -5y = -x + 5
+        - y = 1/5 + 1
+            - m = 1/5
+            - b = 1
+Lines intersecting.
+- 1 point
+- Consistent
+- Independent
