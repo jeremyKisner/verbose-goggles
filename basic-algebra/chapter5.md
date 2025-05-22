@@ -131,4 +131,14 @@ Lines intersecting.
 # 5.11
 Without graphing, determine the number of solutions and then classify the system of equations.
 - 3x - 2y = 4
+    - -2y = -3x + 4
+        - y = 3/2x - 2
+            - m = 3/2
+            - b = -2
 - y = 3/2x - 2
+    - m = 3/2x
+    - b = -3
+Lines Coincident.
+- Infinite
+- Consistent
+- Dependent
