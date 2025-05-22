@@ -127,3 +127,8 @@ Lines intersecting.
 - 1 point
 - Consistent
 - Independent
+
+# 5.11
+Without graphing, determine the number of solutions and then classify the system of equations.
+- 3x - 2y = 4
+- y = 3/2x - 2
