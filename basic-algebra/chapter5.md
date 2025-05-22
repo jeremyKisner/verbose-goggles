@@ -112,3 +112,7 @@ Lines are parallel.
 - Inconsistent
 - Independent
 
+# 5.10
+Without graphing, determine the number of solutions and then classify the system of equations:
+- 2x + y = -3
+- x - 5y = 5
