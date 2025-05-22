@@ -142,3 +142,6 @@ Lines Coincident.
 - Infinite
 - Consistent
 - Dependent
+
+# 5.12
+Sondra is making 10 quarts of punch from fruit juice and club soda. The number of quarts of fruit juice is 4 times the number of quarts of club soda. How many quarts of fruit juice and how many quarts of club soda does Sondra need?
