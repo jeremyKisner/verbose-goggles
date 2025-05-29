@@ -26,3 +26,4 @@ Find the degree of the following polynomials.
 
 # 6.3
 Add: 25y^2+15y^2
+- 40y^2
