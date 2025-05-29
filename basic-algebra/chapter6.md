@@ -23,3 +23,6 @@ Find the degree of the following polynomials.
     - 2
 - 8xy^2 + 2y
     - 3
+
+# 6.3
+Add: 25y^2+15y^2
