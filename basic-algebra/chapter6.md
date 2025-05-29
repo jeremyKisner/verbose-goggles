@@ -31,3 +31,6 @@ Add: 25y^2+15y^2
 # 6.4
 Subtract: 16p - (-7p).
 - 23p
+
+# 6.5
+Simplify: c^2 + 7d^2 - 6c^2.
