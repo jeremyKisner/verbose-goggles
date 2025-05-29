@@ -10,3 +10,11 @@ Determine whether each polynomial is a monomial, binomial, trinomial, or other p
     - binomial
 - q
     - monomial
+
+# 6.2
+Find the degree of the following polynomials.
+- 10y
+- 4x^3 - 7y + 5
+- -15
+- -8b^2 + 9b - 2
+- 8xy^2 + 2y
