@@ -34,3 +34,4 @@ Subtract: 16p - (-7p).
 
 # 6.5
 Simplify: c^2 + 7d^2 - 6c^2.
+- -5c^2 + 7d^2 
