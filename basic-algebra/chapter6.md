@@ -37,4 +37,5 @@ Simplify: c^2 + 7d^2 - 6c^2.
 - -5c^2 + 7d^2
 
 # 6.6
-Simplify: u2v+5u2−3v2.
+Simplify: u^2v + 5u^2 − 3v^2.
+- THere are no like terms to combine
