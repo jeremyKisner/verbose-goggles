@@ -42,3 +42,4 @@ Simplify: u^2v + 5u^2 − 3v^2.
 
 # 6.7
 Find the sum: (5y^2 - 3y + 15) + (3y^2 - 4y - 11)
+- 8y^2 - 7y + 4
