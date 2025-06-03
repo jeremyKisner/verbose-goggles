@@ -47,3 +47,6 @@ Find the sum: (5y^2 - 3y + 15) + (3y^2 - 4y - 11)
 # 6.8
 Find the difference (9w^2 - 7w + 5) - (2w^2 + 4)
 - 7w^2 - 7w + 9
+
+# 6.9
+Subtract (c^2 - 4c + 7) from (7c^2 - 5c + 3)
