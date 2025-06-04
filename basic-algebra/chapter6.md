@@ -51,3 +51,6 @@ Find the difference (9w^2 - 7w + 5) - (2w^2 + 4)
 # 6.9
 Subtract (c^2 - 4c + 7) from (7c^2 - 5c + 3)
 - 6c^2 - c - 4
+
+# 6.10
+Find the sum: (u^2 - 6uv + 5v^2) + (3u^2 + 2uv).
