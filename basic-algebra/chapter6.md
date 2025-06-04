@@ -54,3 +54,4 @@ Subtract (c^2 - 4c + 7) from (7c^2 - 5c + 3)
 
 # 6.10
 Find the sum: (u^2 - 6uv + 5v^2) + (3u^2 + 2uv).
+- 4u^2 - 4uv + 5v^2
