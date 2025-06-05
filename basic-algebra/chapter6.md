@@ -63,3 +63,5 @@ Find the difference (p^2 + q^2) - (p^2 + 10pq - 2q^2)
 
 # 6.12
 Simplify: (a^3 - a^2b) - (ab^2 + b^3) + (a^2b + ab^2)
+- a^3 - a^2b - ab^2 - b^3 + a^2b + ab^2
+    - a^3 - b^3
