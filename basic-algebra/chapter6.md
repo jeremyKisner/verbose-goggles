@@ -57,4 +57,6 @@ Find the sum: (u^2 - 6uv + 5v^2) + (3u^2 + 2uv).
 - 4u^2 - 4uv + 5v^2
 
 # 6.11
-Find the difference (p^2 + q^2) - (p^2 + 10pq + 2q^2)
+Find the difference (p^2 + q^2) - (p^2 + 10pq - 2q^2)
+- p^2 + q^2 - p^2 - 10pq + 2q^2
+    - 3q^2 - 10pq
