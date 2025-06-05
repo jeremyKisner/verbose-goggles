@@ -60,3 +60,6 @@ Find the sum: (u^2 - 6uv + 5v^2) + (3u^2 + 2uv).
 Find the difference (p^2 + q^2) - (p^2 + 10pq - 2q^2)
 - p^2 + q^2 - p^2 - 10pq + 2q^2
     - 3q^2 - 10pq
+
+# 6.12
+Simplify: (a^3 - a^2b) - (ab^2 + b^3) + (a^2b + ab^2)
