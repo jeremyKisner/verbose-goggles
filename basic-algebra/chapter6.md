@@ -68,3 +68,6 @@ Simplify: (a^3 - a^2b) - (ab^2 + b^3) + (a^2b + ab^2)
 
 # 6.13
 Evaluate 5x^2 - 8x + 4
+- x = 4
+- x = -2
+- x = 0
