@@ -65,3 +65,6 @@ Find the difference (p^2 + q^2) - (p^2 + 10pq - 2q^2)
 Simplify: (a^3 - a^2b) - (ab^2 + b^3) + (a^2b + ab^2)
 - a^3 - a^2b - ab^2 - b^3 + a^2b + ab^2
     - a^3 - b^3
+
+# 6.13
+Evaluate 5x^2 - 8x + 4
