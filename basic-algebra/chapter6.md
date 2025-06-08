@@ -107,3 +107,5 @@ Multiply (3x^2)(-4x^3)
 
 # 6.38
 Multiply using the FOIL method: (x+5)(x+9).
+- x^2 + 9x + 5x + 45
+    - x^2 + 14x + 45
