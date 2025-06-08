@@ -100,3 +100,7 @@ The polynomial `6x^2 + 15xy` gives the cost, in dollars, of producing a rectangu
         - 96 + 360
             - 456
 The cost of producing the box is $456.
+
+# 6.26
+Multiply (3x^2)(-4x^3)
+-
