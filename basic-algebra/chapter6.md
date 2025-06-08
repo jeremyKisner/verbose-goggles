@@ -87,4 +87,8 @@ Evaluate 5x^2 - 8x + 4
 
 # 6.14
 The polynomial −16t^2+250 gives the height of a ball t seconds after it is dropped from a 250 foot tall building. Find the height after t=2 seconds.
-- 
+- -16 * 2^2 + 250
+    - -16 * 4 + 250
+        - -64 + 250
+            - 186
+After 2 seconds the height of the ball is 186.
