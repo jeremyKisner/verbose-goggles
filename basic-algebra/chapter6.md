@@ -86,9 +86,13 @@ Evaluate 5x^2 - 8x + 4
             - 4
 
 # 6.14
-The polynomial −16t^2+250 gives the height of a ball t seconds after it is dropped from a 250 foot tall building. Find the height after t=2 seconds.
+The polynomial `−16t^2 + 250` gives the height of a ball t seconds after it is dropped from a 250 foot tall building. Find the height after t=2 seconds.
 - -16 * 2^2 + 250
     - -16 * 4 + 250
         - -64 + 250
             - 186
-After 2 seconds the height of the ball is 186.
+After **2** seconds the height of the ball is `186`.
+
+# 6.15
+The polynomial `6x^2 + 15xy` gives the cost, in dollars, of producing a rectangular container whose top and bottom are squares with side x feet and sides of height y feet. Find the cost of producing a box with `x=4` feet and `y=6` feet.
+- 
