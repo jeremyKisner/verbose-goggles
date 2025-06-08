@@ -95,4 +95,8 @@ After **2** seconds the height of the ball is `186`.
 
 # 6.15
 The polynomial `6x^2 + 15xy` gives the cost, in dollars, of producing a rectangular container whose top and bottom are squares with side x feet and sides of height y feet. Find the cost of producing a box with `x=4` feet and `y=6` feet.
-- 
+- 6  * 4*^2 + 15 * 4 * 6
+    - 6 * 16 + 15 * 4 * 6
+        - 96 + 360
+            - 456
+The cost of producing the box is $456.
