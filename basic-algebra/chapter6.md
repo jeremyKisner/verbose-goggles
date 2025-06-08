@@ -103,4 +103,4 @@ The cost of producing the box is $456.
 
 # 6.26
 Multiply (3x^2)(-4x^3)
--
+- -12x^5
