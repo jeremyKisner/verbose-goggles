@@ -109,3 +109,7 @@ Multiply (3x^2)(-4x^3)
 Multiply using the FOIL method: (x+5)(x+9).
 - x^2 + 9x + 5x + 45
     - x^2 + 14x + 45
+
+# 6.48
+Multiply `(y - 3) ^2`
+-
