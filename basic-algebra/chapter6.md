@@ -112,4 +112,5 @@ Multiply using the FOIL method: (x+5)(x+9).
 
 # 6.48
 Multiply `(y - 3) ^2`
--
+- y^2 + 2 * y * - 3 + 9
+    - y^2 - 6y + 9
