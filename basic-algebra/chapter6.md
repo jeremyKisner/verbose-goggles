@@ -102,11 +102,11 @@ The polynomial `6x^2 + 15xy` gives the cost, in dollars, of producing a rectangu
 The cost of producing the box is $456.
 
 # 6.26
-Multiply (3x^2)(-4x^3)
+Multiply `(3x^2)(-4x^3)`
 - -12x^5
 
 # 6.38
-Multiply using the FOIL method: (x+5)(x+9).
+Multiply using the FOIL method: `(x+5)(x+9)`.
 - x^2 + 9x + 5x + 45
     - x^2 + 14x + 45
 
@@ -114,3 +114,8 @@ Multiply using the FOIL method: (x+5)(x+9).
 Multiply `(y - 3) ^2`
 - y^2 + 2 * y * - 3 + 9
     - y^2 - 6y + 9
+
+# 6.59
+Simplify
+- `x^9 / x^7`
+- `3^10 / 3^2`
