@@ -53,21 +53,21 @@ Subtract (c^2 - 4c + 7) from (7c^2 - 5c + 3)
 - 6c^2 - c - 4
 
 # 6.10
-Find the sum: (u^2 - 6uv + 5v^2) + (3u^2 + 2uv).
+Find the sum: `(u^2 - 6uv + 5v^2) + (3u^2 + 2uv)`.
 - 4u^2 - 4uv + 5v^2
 
 # 6.11
-Find the difference (p^2 + q^2) - (p^2 + 10pq - 2q^2)
+Find the difference `(p^2 + q^2) - (p^2 + 10pq - 2q^2)`
 - p^2 + q^2 - p^2 - 10pq + 2q^2
     - 3q^2 - 10pq
 
 # 6.12
-Simplify: (a^3 - a^2b) - (ab^2 + b^3) + (a^2b + ab^2)
+Simplify: `(a^3 - a^2b) - (ab^2 + b^3) + (a^2b + ab^2)`
 - a^3 - a^2b - ab^2 - b^3 + a^2b + ab^2
     - a^3 - b^3
 
 # 6.13
-Evaluate 5x^2 - 8x + 4
+Evaluate `5x^2 - 8x + 4`
 - x = 4
     - 5(4)^2 - 8(4) + 4
         - 5 * 16 - 32 + 4
